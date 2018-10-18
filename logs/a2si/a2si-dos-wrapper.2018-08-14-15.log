@@ -1,0 +1,8 @@
+14-08-2018 15:08:15.458 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 14628 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+14-08-2018 15:08:15.468 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+14-08-2018 15:08:20.185 INFO  [main][DosStubClient] DosStubClient created
+14-08-2018 15:08:23.050 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 8.2 seconds (JVM running for 9.357)
+14-08-2018 15:45:37.871 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 15940 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+14-08-2018 15:45:37.872 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+14-08-2018 15:45:42.607 INFO  [main][DosStubClient] DosStubClient created
+14-08-2018 15:45:44.380 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 7.328 seconds (JVM running for 8.599)

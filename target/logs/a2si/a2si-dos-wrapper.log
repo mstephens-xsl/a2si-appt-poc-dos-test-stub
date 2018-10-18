@@ -1,0 +1,10 @@
+11-10-2018 11:17:03.878 INFO  [main][DosWrapperApplication] Starting DosWrapperApplication v0.0.7-SNAPSHOT on dc-xps-13 with PID 20704 (C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop\target\a2si-dos-wrapper-0.0.7-SNAPSHOT.jar started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop\target)
+11-10-2018 11:17:03.909 INFO  [main][DosWrapperApplication] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+11-10-2018 11:17:09.841 INFO  [main][DosStubClient] DosStubClient created
+11-10-2018 11:17:09.872 INFO  [main][DosWrapperSoapEndpoint] dosClient is DosStubClient{}
+11-10-2018 11:17:09.872 INFO  [main][DosWrapperSoapEndpoint] capacityServiceClient is CapacityServiceStubClient{}
+11-10-2018 11:17:11.983 INFO  [main][DosWrapperSoapEndpoint] dosClient is DosStubClient{}
+11-10-2018 11:17:11.983 INFO  [main][DosWrapperSoapEndpoint] capacityServiceClient is CapacityServiceStubClient{}
+11-10-2018 11:17:15.597 INFO  [main][DosWrapperApplication] Started DosWrapperApplication in 13.045 seconds (JVM running for 14.722)
+11-10-2018 11:17:56.726 INFO  [http-nio-7030-exec-1][DosWrapperSoapEndpoint] DOS returned 1 services, of which 0 had waiting times (TransactionId=TransId, CaseRef=null, CaseID=null)
+11-10-2018 11:18:04.795 INFO  [http-nio-7030-exec-3][DosWrapperSoapEndpoint] DOS returned 1 services, of which 0 had waiting times (TransactionId=TransId, CaseRef=null, CaseID=null)

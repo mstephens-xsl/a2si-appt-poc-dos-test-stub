@@ -1,0 +1,14 @@
+14-08-2018 14:20:46.373 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 15568 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+14-08-2018 14:20:46.403 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+14-08-2018 14:20:55.005 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 9.562 seconds (JVM running for 11.213)
+14-08-2018 14:35:26.113 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 16100 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+14-08-2018 14:35:26.114 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+14-08-2018 14:35:33.118 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 7.671 seconds (JVM running for 8.969)
+14-08-2018 14:45:15.778 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 15912 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+14-08-2018 14:45:15.780 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+14-08-2018 14:45:20.716 INFO  [main][DosStubClient] DosStubClient created
+14-08-2018 14:45:23.445 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 8.275 seconds (JVM running for 9.54)
+14-08-2018 14:57:58.824 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 8312 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+14-08-2018 14:57:58.830 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+14-08-2018 14:58:03.439 INFO  [main][DosStubClient] DosStubClient created
+14-08-2018 14:58:05.523 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 7.316 seconds (JVM running for 8.496)

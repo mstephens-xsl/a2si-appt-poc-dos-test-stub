@@ -1,0 +1,4 @@
+15-08-2018 08:25:03.980 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 5048 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+15-08-2018 08:25:03.980 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+15-08-2018 08:25:09.043 INFO  [main][DosStubClient] DosStubClient created
+15-08-2018 08:25:10.652 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 7.235 seconds (JVM running for 8.407)

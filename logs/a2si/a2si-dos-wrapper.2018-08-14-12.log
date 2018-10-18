@@ -1,0 +1,3 @@
+14-08-2018 12:39:19.786 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 7564 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+14-08-2018 12:39:19.800 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+14-08-2018 12:39:28.152 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 9.074 seconds (JVM running for 10.385)

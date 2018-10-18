@@ -1,0 +1,8 @@
+13-08-2018 11:46:08.314 INFO  [main][DosWrapperApplicationTests] Starting DosWrapperApplicationTests on dc-xps-13 with PID 13496 (started by Matthew in C:\Users\Matthew\AL\a2si-capacity-dos-wrapper-develop)
+13-08-2018 11:46:08.314 INFO  [main][DosWrapperApplicationTests] The following profiles are active: doswrapper-local-dos-stub-na-cpsc-stub-na
+13-08-2018 11:46:12.982 INFO  [main][DosStubClient] DosStubClient created
+13-08-2018 11:46:13.006 INFO  [main][DosWrapperSoapEndpoint] dosClient is DosStubClient{}
+13-08-2018 11:46:13.006 INFO  [main][DosWrapperSoapEndpoint] capacityServiceClient is CapacityServiceStubClient{}
+13-08-2018 11:46:14.100 INFO  [main][DosWrapperSoapEndpoint] dosClient is DosStubClient{}
+13-08-2018 11:46:14.100 INFO  [main][DosWrapperSoapEndpoint] capacityServiceClient is CapacityServiceStubClient{}
+13-08-2018 11:46:15.811 INFO  [main][DosWrapperApplicationTests] Started DosWrapperApplicationTests in 8.113 seconds (JVM running for 9.34)

@@ -1,0 +1,3 @@
+com\nhsd\a2si\DosWrapperApplicationTests.class
+com\nhsd\a2si\client\dos\DosClientToWireMockIntegrationTests.class
+com\nhsd\a2si\client\dos\DosStubClientUnitTests.class
