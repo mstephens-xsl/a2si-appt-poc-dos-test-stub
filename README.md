@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # a2si-dos-wrapper
 This application primarily acts as a proxy between a DoS client and the DoS system itself.
 
@@ -235,5 +234,4 @@ is used for all requests.
 The SOAP endpoint is listening at `{BASE_URL}/nhsd/doswrapper/ws/pathwayService/` - SOAP requests are POSTED to this endpoint and will be proxied to the appropriate DOS endpoint transparently.
 =======
 # a2si-appt-poc-dos-test-stub
->>>>>>> 88495165aaf54fa8b5a18bc1ffab51947d6f1a55
 
