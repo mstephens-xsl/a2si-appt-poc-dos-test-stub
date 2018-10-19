@@ -52,10 +52,10 @@ public class DosStubClient implements DosClient {
 
         serviceCareSummaryDestination.setId(132175);
         serviceCareSummaryDestination.setCapacity(Capacity.HIGH);
-        serviceCareSummaryDestination.setName("Dental - Bradford, West Yorkshire (Olney Dental Care)");
+        serviceCareSummaryDestination.setName("Acme Emergency Dental Services");
         serviceCareSummaryDestination.setContactDetails("01274 720980");
-        serviceCareSummaryDestination.setAddress("5 Lister Avenue, Bradford, BD4 7QP");
-        serviceCareSummaryDestination.setPostcode("BD4 7QP");
+        serviceCareSummaryDestination.setAddress("Acme Avenue, Test Town, TT1 EST");
+        serviceCareSummaryDestination.setPostcode("AC1 1ME");
         serviceCareSummaryDestination.setNorthings(431436);
         serviceCareSummaryDestination.setEastings(417867);
         serviceCareSummaryDestination.setUrl(null);
@@ -136,9 +136,9 @@ public class DosStubClient implements DosClient {
 
             ContactDetail contactDetail1 = objectFactory.createContactDetail();
             contactDetail1.setTag(ContactType.ASID);
-            contactDetail1.setValue("675AE76D65198B8C");
+            contactDetail1.setValue("123456789011");
             contactDetail1.setOrder(1);
-            contactDetail1.setName("Emergency Dental Service");
+            contactDetail1.setName("Acme Emergency Dental Service");
 
             arrayOfContactDetails.getContactDetail().add(contactDetail1);
 
